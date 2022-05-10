@@ -1,1 +1,1 @@
-http://c93802iw.beget.tech/MagiskApps.zip
+https://ppload-com.s3.eu-central-1.amazonaws.com/data/files/1626333364/AudioFX-LineageOS-MagiskModule-20220509013702.zip?response-content-disposition=attachment%3B%2520AudioFX-LineageOS-MagiskModule-20220509013702.zip&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATLQUPBWASZL2ZPWI%2F20220510%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20220510T073312Z&X-Amz-SignedHeaders=host&X-Amz-Expires=60&X-Amz-Signature=5494c9d442b0243b98ce1870322e3506276f9d6d7eb1ff6d88f3a57a1ea60cfa
